@@ -1,3 +1,3 @@
-![banner](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperswide.com%2Fdownload%2Fsunshine_8-wallpaper-1920x1080.jpg&tbnid=KXTH7pP1fQcBaM&vet=12ahUKEwicktSxweyAAxX8tVYBHZSyA34QMygYegUIARCMAQ..i&imgrefurl=https%3A%2F%2Fwallpaperswide.com%2Fsunshine_8-wallpapers.html&docid=6VG4PxMtYysgaM&w=1920&h=1080&q=sunshine%20man%20photo&ved=2ahUKEwicktSxweyAAxX8tVYBHZSyA34QMygYegUIARCMAQ)
+![banner](./banner.jpg)
 
 ## Welcome! :wave:
