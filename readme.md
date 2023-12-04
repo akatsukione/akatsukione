@@ -28,10 +28,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rails" alt="icon" width="48" height="48" />
-      <br>RoR
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
@@ -63,6 +59,10 @@
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rails" alt="icon" width="48" height="48" />
+      <br>RoR
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
@@ -108,7 +108,7 @@
       <br>VsCode
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="WordPress" />
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI" />
       <br>AI
     </td>
               <td align="center" width="96">
@@ -173,34 +173,34 @@
 
 <h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{dedev168943}/count.svg" alt="whitehorse21 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{dedev168943}/count.svg" alt="dedev168943 :: Visitor's Count" /></p>
 
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=whitehorse21&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=dedev168943&data=followers,repositories,stars,commits' />
 </p>
 
 <p align="center">
 
 
-<a href="https://github.com/whitehorse21?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=whitehorse21&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
-<a href="https://github.com/whitehorse21?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=whitehorse21&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@whitehorse21's github-readme-streak-stats"/></a>
+<a href="https://github.com/dedev168943?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=dedev168943&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@dedev168943's github-readme-stats"/></a>
+<a href="https://github.com/dedev168943?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=dedev168943&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@dedev168943's github-readme-streak-stats"/></a>
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@whitehorse21">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitehorse21&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="whitehorse21's activity graph">
+    <a href="https://wakatime.com/@dedev168943">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedev168943&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="dedev168943's activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="whitehorse21 :: Top Langs" />
-<a href="https://github.com/whitehorse21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=whitehorse21&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@whitehorse21's trophy stats"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedev168943&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="dedev168943 :: Top Langs" />
+<a href="https://github.com/dedev168943?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dedev168943&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@dedev168943's trophy stats"/></a>
 </p>
 
-<h2>Contact me :postbox:</h2>
+<h2>Contact :postbox:</h2>
 <div>
   <a href = "mailto:devpanda168943@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
