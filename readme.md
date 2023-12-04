@@ -1,4 +1,4 @@
-# Senior React | React Native | Typescript | Javascript | Node.js | Python Developer
+# Full Stack Developer
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
@@ -28,8 +28,8 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://skillicons.dev/icons?i=rails" alt="icon" width="48" height="48" />
+      <br>RoR
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
@@ -108,8 +108,8 @@
       <br>VsCode
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="WordPress" />
+      <br>AI
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
@@ -173,7 +173,7 @@
 
 <h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{whitehorse21}/count.svg" alt="whitehorse21 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{dedev168943}/count.svg" alt="whitehorse21 :: Visitor's Count" /></p>
 
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=whitehorse21&data=followers,repositories,stars,commits' />
@@ -181,9 +181,6 @@
 
 <p align="center">
 
-<!--
-<a href="https://github.com/whitehorse21?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=whitehorse21&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
--->
 
 <a href="https://github.com/whitehorse21?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=whitehorse21&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
 <a href="https://github.com/whitehorse21?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=whitehorse21&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@whitehorse21's github-readme-streak-stats"/></a>
