@@ -173,7 +173,7 @@
 
 <h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{whitehorse21}/count.svg" alt="whitehorse21 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{dedev168943}/count.svg" alt="whitehorse21 :: Visitor's Count" /></p>
 
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=whitehorse21&data=followers,repositories,stars,commits' />
