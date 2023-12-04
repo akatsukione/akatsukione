@@ -28,7 +28,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rails" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=rails" alt="icon" width="48" height="48" />
       <br>RoR
     </td>
     <td align="center" width="96">
