@@ -200,10 +200,10 @@
 <a href="https://github.com/dedev168943?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dedev168943&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@dedev168943's trophy stats"/></a>
 </p>
 
-<h2>Contact :postbox:</h2>
+<!-- <h2>Contact :postbox:</h2>
 <div>
   <a href = "mailto:devpanda168943@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
