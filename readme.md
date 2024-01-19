@@ -5,7 +5,7 @@
 <br/>
 - 🔭 With 8+ years of experience designing and arcitect project using various patterns such as Domain-Driven Design<br/>
 - 🌱 Proficient in various industries such as Fintech, E-commerce, Healthcare, Insurance and SaaS Platform Development<br/>
-- 👍 Experienced in System Arcjtecture, DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
+- 👍 Experienced in System Architecture, DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with OpenAPI.<br/>
 </div>
 
