@@ -3,7 +3,7 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
 <br/>
-- 🔭 With 8+ years of experience designing and arcitect project using various patterns such as Domain-Driven Design<br/>
+- 🔭 With 8+ years of experience in designing and arcitecture using various patterns such as Domain-Driven Design<br/>
 - 🌱 Proficient in various industries such as Fintech, E-commerce, Healthcare, Insurance and SaaS Platform Development<br/>
 - 👍 Experienced in System Architecture, DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with OpenAPI.<br/>
