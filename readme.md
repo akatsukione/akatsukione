@@ -202,7 +202,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akatsukione&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="akatsukione :: Top Langs" />
-<a href="https://github.com/akatsukione?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=akatsukione&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@dedev168943's trophy stats"/></a>
+<a href="https://github.com/akatsukione?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=akatsukione&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@akatsukione's trophy stats"/></a>
 </p>
 
 <!-- <h2>Contact :postbox:</h2>
