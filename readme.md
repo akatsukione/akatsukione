@@ -2,17 +2,14 @@
 
 <div>
 <br/>
-<<<<<<< HEAD
 - 🔭 Full Stack developer with 8+ years of experience building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Vue.js, Angular, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
-=======
 - 🔭 With 8+ years of experience in designing and arcitecture using various patterns such as Domain-Driven Design<br/>
 - 🌱 Proficient in various industries such as Fintech, E-commerce, Healthcare, Insurance and SaaS Platform Development<br/>
 - 👍 Experienced in System Architecture, DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with OpenAPI.<br/>
->>>>>>> 467bcbde6e1d6a8216926fcaba6e1e18eaa1e6ad
 </div>
 
 <h2>My stack :man_technologist:</h2>
