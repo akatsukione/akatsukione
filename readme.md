@@ -2,14 +2,14 @@
 
 <div>
 <br/>
- - As a Full Stack Developer with over 8 years of experience, it specializes in the development of scalable, high-performance web and mobile applications.
- - It is proficient in a wide range of front-end technologies, including React, React Native, Next.js, Vue.js, and Angular, complemented by expertise in back-end technologies such as Node.js, Python, and PHP.
- - Its experience extends to DevOps, CI/CD, and cloud infrastructure management, with a strong focus on AWS, Azure, and GCP.
- - It has successfully developed AI applications and integrated them with web platforms and ChatGPT, showcasing the ability to leverage cutting-edge technologies.
- - Its background includes extensive experience in designing and architecting solutions using advanced patterns such as Domain-Driven Design.
- - It has a broad portfolio, with proficiency in various industries including Fintech, E-commerce, Healthcare, Insurance, and SaaS Platform Development.
- - Its expertise in System Architecture, DevOps, CI/CD, and cloud infrastructure management, particularly with AWS, Azure, and GCP, further underscores its comprehensive skill set.
- - It has developed AI applications and integrated them with OpenAPI, demonstrating the capability to work with open standards and APIs.
+ - As a Full Stack Developer with over 8 years of experience, it specializes in the development of scalable, high-performance web and mobile applications.<br/>
+ - It is proficient in a wide range of front-end technologies, including React, React Native, Next.js, Vue.js, and Angular, complemented by expertise in back-end technologies such as Node.js, Python, and PHP.<br/>
+ - Its experience extends to DevOps, CI/CD, and cloud infrastructure management, with a strong focus on AWS, Azure, and GCP.<br/>
+ - It has successfully developed AI applications and integrated them with web platforms and ChatGPT, showcasing the ability to leverage cutting-edge technologies.<br/>
+ - Its background includes extensive experience in designing and architecting solutions using advanced patterns such as Domain-Driven Design.<br/>
+ - It has a broad portfolio, with proficiency in various industries including Fintech, E-commerce, Healthcare, Insurance, and SaaS Platform Development.<br/>
+ - Its expertise in System Architecture, DevOps, CI/CD, and cloud infrastructure management, particularly with AWS, Azure, and GCP, further underscores its comprehensive skill set.<br/>
+ - It has developed AI applications and integrated them with OpenAPI, demonstrating the capability to work with open standards and APIs.<br/>
 </div>
 
 <h2>My stack :man_technologist:</h2>
