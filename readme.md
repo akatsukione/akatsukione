@@ -1,4 +1,4 @@
-# Lead Developer & Architect
+# Full Stack Ddeveloper & Archictect
 
 <div>
 <br/>
