@@ -2,7 +2,6 @@
 
 <div>
 <br/>
- - It is proficient in a wide range of front-end technologies, including React, React Native, Next.js, Vue.js, and Angular, complemented by expertise in back-end technologies such as Node.js, Python, and PHP.<br/>
  - Its experience extends to DevOps, CI/CD, and cloud infrastructure management, with a strong focus on AWS, Azure, and GCP.<br/>
  - It has successfully developed AI applications and integrated them with web platforms and ChatGPT, showcasing the ability to leverage cutting-edge technologies.<br/>
  - Its background includes extensive experience in designing and architecting solutions using advanced patterns such as Domain-Driven Design.<br/>
