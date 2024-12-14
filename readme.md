@@ -1,15 +1,5 @@
 # Full Stack Ddeveloper & Archictect
 
-<div>
-<br/>
- - Its experience extends to DevOps, CI/CD, and cloud infrastructure management, with a strong focus on AWS, Azure, and GCP.<br/>
- - It has successfully developed AI applications and integrated them with web platforms and ChatGPT, showcasing the ability to leverage cutting-edge technologies.<br/>
- - Its background includes extensive experience in designing and architecting solutions using advanced patterns such as Domain-Driven Design.<br/>
- - It has a broad portfolio, with proficiency in various industries including Fintech, E-commerce, Healthcare, Insurance, and SaaS Platform Development.<br/>
- - Its expertise in System Architecture, DevOps, CI/CD, and cloud infrastructure management, particularly with AWS, Azure, and GCP, further underscores its comprehensive skill set.<br/>
- - It has developed AI applications and integrated them with OpenAPI, demonstrating the capability to work with open standards and APIs.<br/>
-</div>
-
 <h2>My stack :man_technologist:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
